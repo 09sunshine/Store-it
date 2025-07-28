@@ -1,4 +1,4 @@
-<div align="center">
+<div align = "center">
   <br />
       <img src="public/readme/hero.png" alt="Project Banner">
     </a>
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
   </div>
 
-<h3 align="center">Storage and File Sharing Platform</h3>
+<h3 align = "center">Storage and File Sharing Platform</h3>
 
 </div>
 
@@ -66,12 +66,6 @@ Make sure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
-cd storage_management_solution
-```
 
 **Installation**
 
